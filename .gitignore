@@ -1,0 +1,23 @@
+# 🧠 Python venv & cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 🧪 Jupyter checkpoints
+.ipynb_checkpoints/
+
+# 🗂 Data and artifacts
+data/
+artifacts/
+
+# 🚫 Temporary or system files
+.DS_Store
+Thumbs.db
+
+# ⚙️ Environment / IDE
+.vscode/
+.idea/
+.env
