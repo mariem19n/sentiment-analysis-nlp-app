@@ -41,24 +41,24 @@ This project demonstrates the full NLP workflow:
    git clone https://github.com/mariem19n/sentiment-analysis-nlp-app.git
    cd sentiment-analysis-nlp-app
 
-2. Create and activate a virtual environment
+2. **Create and activate a virtual environment**
    python -m venv .venv
   .venv\Scripts\activate       # on Windows
   source .venv/bin/activate    # on Mac/Linux
 
-3. Install dependencies
+3. **Install dependencies**
    pip install -r requirements.txt
 
-4. Run the Streamlit app
+4. **Run the Streamlit app**
    streamlit run app.py
 
-📊 Notebook Exploration
+## 📊 Notebook Exploration
 
 Open the notebook for step-by-step data analysis and model training:
 
   jupyter notebook notebooks/Sentiment_Analysis.ipynb
 
-🧩 Explainable AI (XAI)
+## 🧩 Explainable AI (XAI)
 
 The app integrates interpretability techniques to:
 
@@ -68,5 +68,5 @@ The app integrates interpretability techniques to:
 
 -Provide model transparency for end users.
 
-## 📁 Project Structure
+
 
